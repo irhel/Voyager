@@ -1,0 +1,20 @@
+Category:               High-School Programming
+Project name:           Voyager
+Team name:              Empire
+
+Team member:            Irhad Elezovikj
+Teacher:                Nahit Yilmaz
+Project mentors:        Elchin Asgarov, Semir Elezovikj
+
+School: 		Private Yahya Kemal College 
+City: 			Gostivar
+Country: 		Macedonia
+
+Project Description:    Voyager is an intelligent agent that explores a given website and extracts data regarding how the website is
+interconnected with other websites on the web and/or internally. It validates the links that the current website links
+to by extracting all the links from the HTML source of the website and checking their availability. When Voyager finds
+links, it sends them to a queue, so that when the current page is processed, Voyager goes on to process the links on the queue.
+Voyager can also copy the entire content of a given website. The user can select the number of threads to process a given
+website and download the pages and the content of the website.
+If the user selects to enter a world wide voyage mode, then Voyager treats external links as internal and processes them as well.
+Hypothetically, Voyager can explore the whole world wide web based on the availability of inter connectivity between websites.
